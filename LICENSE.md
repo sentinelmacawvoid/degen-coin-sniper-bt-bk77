@@ -1,4 +1,4 @@
-# 
+# vip bot de arbitragem MEV executor é o melhor bot de arbitragem MEV executor com leilões de gas prioritários e detecção de novos tokens. Seguro, confiável e otimizado para
 
 
 
